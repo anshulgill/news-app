@@ -1,0 +1,136 @@
+    {
+        "status": "ok",
+        "totalResults": 10,
+        "articles": [
+        {
+            "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+            },
+            "author": "BBC Sport",
+            "title": "England win thriller to keep Ashes series alive",
+            "description": "England keep their Ashes hopes alive by beating Australia by three wickets in another nerve-shredding Headingley finale.",
+            "url": "http://www.bbc.co.uk/sport/cricket/66148643",
+            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/157E1/production/_130333088_gettyimages-1528193971.jpg",
+            "publishedAt": "2023-07-09T15:07:26.4232788Z",
+            "content": "<table>\r\n<tr><td>Third men's Ashes Test, Headingley (day four):</td></tr><tr><td>Australia 263 (Marsh 118; Wood 5-34) &amp; 224 (Head 77; Broad 3-45, Woakes 3-68)</td></tr><tr><td>England 237 (Stokes… [+2480 chars]"
+        },
+        {
+            "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Has Janet Yellen's trip to Beijing improved US-China relations?",
+            "description": "Polite and respectful communication has returned - but progress could easily be knocked back.",
+            "url": "http://www.bbc.co.uk/news/world-asia-66146889",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13F9F/production/_130332818_f2e6bda0147eecba715c6c105c796269ad6b7008.jpg",
+            "publishedAt": "2023-07-09T15:07:21.6119768Z",
+            "content": "US Treasury Secretary Janet Yellen has just concluded a four-day trip to China, aimed at rebuilding bridges between the two countries. \r\nWas the trip to Beijing a success? Well, by one very basic met… [+2853 chars]"
+        },
+        {
+            "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "War in Ukraine: Biden flies to UK amid concern over cluster bombs",
+            "description": "The US president is facing criticism over his decision to send the controversial weapons to Ukraine.",
+            "url": "http://www.bbc.co.uk/news/world-europe-66146457",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7C4F/production/_130332813_b3191df0cfeab7932a819974a0f036b48cd7a0a5.jpg",
+            "publishedAt": "2023-07-09T14:52:21.2371619Z",
+            "content": "US President Joe Biden is heading to Europe ahead of a Nato summit after several allies questioned his decision to send cluster bombs to Ukraine.\r\nThe UK and Canada are among those who voiced concern… [+2970 chars]"
+        },
+        {
+            "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "BBC presenter allegations: Corporation investigating 'deeply concerning' claims - culture secretary",
+            "description": "An unnamed top presenter has been accused of paying a teenager for sexually explicit photographs.",
+            "url": "http://www.bbc.co.uk/news/live/uk-66147560",
+            "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+            "publishedAt": "2023-07-09T13:52:26.9871425Z",
+            "content": "Video content\r\nVideo caption: Reeves: BBC 'must get house in order' on explicit photosReeves: BBC 'must get house in order' on explicit photos\r\nAs well as Priti Patel - mentioned in our post below - … [+1109 chars]"
+        },
+        {
+            "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "France bans buying fireworks for Bastille Day after riots",
+            "description": "The move comes after rioting sparked by last month's killing of a 17-year-old by police in Nanterre.",
+            "url": "http://www.bbc.co.uk/news/world-europe-66147920",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3A41/production/_130331941_hi085820916.jpg",
+            "publishedAt": "2023-07-09T12:37:17.0335931Z",
+            "content": "France has banned the sale, possession and transport of all fireworks during the upcoming Bastille Day festivities. \r\nThe government issued a decree on Sunday prohibiting \"pyrotechnic articles\" for t… [+1506 chars]"
+        },
+        {
+            "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+            },
+            "author": "BBC Sport",
+            "title": "Watch Wimbledon: Pegula first on Court One, Murray into doubles decider",
+            "description": "Follow BBC TV coverage, radio and live text commentary from day seven of Wimbledon.",
+            "url": "http://www.bbc.co.uk/sport/live/tennis/65584743",
+            "urlToImage": "https:////m.files.bbci.co.uk/modules/bbc-morph-sport-seo-meta/1.23.3/images/bbc-sport-logo.png",
+            "publishedAt": "2023-07-09T12:07:19.8305406Z",
+            "content": "It is day seven and 34 players remain in the singles competitions - 17 in the men's and 17 in the women's.\r\nIt should be 16 in each by today, but rain last night meant the third-round matches of Grig… [+864 chars]"
+        },
+        {
+            "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Just Stop Oil deny disrupting George Osborne wedding",
+            "description": "The former chancellor's wedding in Somerset was disrupted by a woman throwing orange confetti.",
+            "url": "http://www.bbc.co.uk/news/uk-politics-66146877",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/D3C5/production/_130331245_765655e1e4cf5584951042095b23b52eeb9a9a90.jpg",
+            "publishedAt": "2023-07-09T12:07:16.0814742Z",
+            "content": "Just Stop Oil have said they were not responsible for an incident at ex-chancellor George Osborne's wedding, which saw a protester throw orange confetti over the newly married couple.\r\nThe protest wa… [+1421 chars]"
+        },
+        {
+            "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "US-China talks a 'step forward' in relations, says Janet Yellen",
+            "description": "But the US Treasury Secretary says the countries still have \"significant disagreements\" at the end of her trip.",
+            "url": "http://www.bbc.co.uk/news/world-asia-66146458",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/FA71/production/_130331146_gettyimages-1513217274.jpg",
+            "publishedAt": "2023-07-09T09:37:16.2057799Z",
+            "content": "US Treasury Secretary Janet Yellen has said her visit to Beijing has marked a \"step forward\" in efforts to stabilise relations between the two countries.\r\nMs Yellen spoke at the end of a four-day tri… [+3223 chars]"
+        },
+        {
+            "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Luis Sánchez: Mexico finds murdered journalist's body in Nayarit",
+            "description": "Luis Sánchez of La Jornada newspaper is the latest victim in a spate of attacks on journalists.",
+            "url": "http://www.bbc.co.uk/news/world-latin-america-66145902",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6B6F/production/_130330572_mexico.jpg",
+            "publishedAt": "2023-07-09T07:52:16.3311494Z",
+            "content": "The body of a correspondent for one of Mexico's leading newspapers has been found in the western state of Nayarit, days after he was reported missing. \r\nLuis Martín Sánchez Íñiguez, 59, worked for La… [+2002 chars]"
+        },
+        {
+            "source": {
+            "id": "bbc-news",
+            "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Ukraine war: Twitter's paid-for Blue accounts fuel misinformation",
+            "description": "False and misleading claims about the war in Ukraine are being widely shared.",
+            "url": "http://www.bbc.co.uk/news/world-europe-66113460",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15876/production/_130328188_4thnovsnipercompetition21-xl.jpg",
+            "publishedAt": "2023-07-08T23:37:18.2525989Z",
+            "content": "False and misleading posts about the Ukraine conflict continue to go viral on major social media platforms, as Russia's invasion of the country extends beyond 500 days. \r\nSome of the most widely shar… [+4180 chars]"
+        }
+        ]
+    }
